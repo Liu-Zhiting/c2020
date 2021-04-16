@@ -1,4 +1,4 @@
-#include "maze.h"
+#include "main.h"
 
 void playGame(GameEngine *engine)
 {
